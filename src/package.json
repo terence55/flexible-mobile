@@ -1,0 +1,15 @@
+{
+  "name": "flexible-mobile",
+  "version": "1.0.1",
+  "description": "Flexible plugin for mobile adaptation",
+  "main": "flexible.js",
+  "scripts": {},
+  "author": "trence320@163.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/terence55/flexible-mobile"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
